@@ -7,13 +7,14 @@
     "calendar",
     "scraper"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/cjs/index.js",
   "module": "./lib/es/index.js",
   "types": "./lib/es/index.d.ts",
   "typings": "./lib/es/index.d.ts",
   "files": [
-    "lib"
+    "lib",
+    "assets"
   ],
   "scripts": {
     "test": "vitest",

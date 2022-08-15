@@ -1,6 +1,7 @@
 # gh-calendar-scraper
 
-> Scrapes a users GitHub contributions calendar
+Scrapes a users GitHub contributions calendar
+![Github calendar example](/assets/calendar-example.png)
 
 ## Install
 
